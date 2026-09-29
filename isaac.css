@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(35, 35, 35);
+}
+
+body {
+    color: rgb(220, 220, 220);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    color: rgb(255, 100, 100);
+    font-family: "Marker Felt", "Comic Sans MS", cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(235, 120, 120);
+    font-family: "Marker Felt", "Comic Sans MS", cursive;
+    font-size: 27px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+img {
+    width: 500px;
+}
+
+a {
+    color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
